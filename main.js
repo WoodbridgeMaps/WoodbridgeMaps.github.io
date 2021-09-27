@@ -6,27 +6,27 @@ function initMap() {
     zoom: 3,
   });
 
-	var icon1 = "W.svg";
-	var icon1a = "Wzoom.svg";
-	var icon2 = "Wjv.svg";
-	var icon2a = "Wjvzoom.svg";
-	var icon3 = "JVw.svg";
-	var icon3a = "JVwzoom.svg";
+	var icon1 = "W.svg?raw=true";
+	var icon1a = "Wzoom.svg?raw=true";
+	var icon2 = "Wjv.svg?raw=true";
+	var icon2a = "Wjvzoom.svg?raw=true";
+	var icon3 = "JVw.svg?raw=true";
+	var icon3a = "JVwzoom.svg?raw=true";
 	
   const iconBase = "./"
     //"https://developers.google.com/maps/documentation/javascript/examples/full/images/";
   const icons = {
     WoodbridgeSite: {
       //icon: iconBase + "parking_lot_maps.png",
-	  icon: "W.svg",
+	  icon: "W.svg?raw=true",
     },
     WoodbridgeManagedJV: {
       //icon: iconBase + "library_maps.png",
-	  icon: "Wjv.svg",
+	  icon: "Wjv.svg?raw=true",
     },
 	JV: {
       //icon: iconBase + "library_maps.png",
-	  icon: "JVw.svg",
+	  icon: "JVw.svg?raw=true",
     },
   };
   
