@@ -94,7 +94,7 @@ const features = [
       title: "WITP El Paso, Flame Lamination, Flexible Foam"
 },
 {
-      position: new google.maps.LatLng(31.895771, -106.392247),
+      position: new google.maps.LatLng(39.8520733341895, -84.31881332521806),
       type: "WoodbridgeSite",
       title: "Englewood, Noise Vibration and Hardness"
 },
@@ -140,8 +140,8 @@ const features = [
 },
 {
       position: new google.maps.LatLng(35.423298, 136.760654),
-      type: "WoodbridgeSite",
-      title: "IWFoam, Moulded Foam"
+      type: "JV",
+      title: "INOAC Woodbridge Nanno, Moulded Foam"
 },
 {
       position: new google.maps.LatLng(39.172456, -94.6333),
@@ -187,6 +187,11 @@ const features = [
       position: new google.maps.LatLng(21.066210, -101.678360),
       type: "WoodbridgeManagedJV",
       title: "WITP Leon Lamination, Flame Lamination"
+},
+{
+      position: new google.maps.LatLng(-37.827321, 144.784423),
+      type: "WoodbridgeSite",
+      title: "Melbourne, Moulded Foam"
 },
 {
       position: new google.maps.LatLng(19.432608, -99.133208),
@@ -307,11 +312,6 @@ const features = [
       position: new google.maps.LatLng(33.27439685712034, 130.90626412863776),
       type: "JV",
       title: "INOAC Woodbridge Inado, Moulded Foam"
-},
-{
-      position: new google.maps.LatLng(35.18289952004401, 136.8999215037453),
-      type: "JV",
-      title: "INOAC Woodbridge Nanno, Moulded Foam"
 },
 {
       position: new google.maps.LatLng(13.698737103376029, 100.34499491874801),
